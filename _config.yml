@@ -1,4 +1,4 @@
-baseurl: 'lovelypatte'
+baseurl: '/lovelypatte'
 
 collections:
   authors:
