@@ -1,3 +1,5 @@
+baseurl: 'lovelypatte'
+
 collections:
   authors:
     output: true
