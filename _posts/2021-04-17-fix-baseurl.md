@@ -13,3 +13,5 @@ Sometimes it’s nice to preview your Jekyll site before you push your gh-pages 
 3. When doing permalinks or internal links, do it like this: {{ site.baseurl }}{{ post.url }} – note that there is no slash between the two variables.
 
 4. Finally, if you'd like to preview your site before committing/deploying using jekyll serve, be sure to pass an empty string to the --baseurl option, so that you can view everything at localhost:4000 normally (without /project-name at the beginning): ex: jekyll serve --baseurl ''
+
+Also for Netlify, jekyll build --baseurl ''
