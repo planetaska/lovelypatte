@@ -1,0 +1,10 @@
+---
+label: Default Template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: author
+  label: author
