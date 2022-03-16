@@ -25,3 +25,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-remote-theme
+
+remote_theme: oinam/oinam-jekyll
